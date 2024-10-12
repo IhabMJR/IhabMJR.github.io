@@ -9,7 +9,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="" alt="Avatar" />
+          <img src="./assets/images/pfp.jpg" alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
@@ -17,7 +17,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/ihab-mouhajer-89a3a7329/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Ihab Mouhajer</h1>
-          <p>En recherche de stage</p>
+          <p>Étudiant en recherche de stage</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/RandomizedRaptor" target="_blank" rel="noreferrer"><GitHubIcon/></a>
