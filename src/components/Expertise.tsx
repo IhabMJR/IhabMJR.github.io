@@ -10,7 +10,8 @@ const labelsFirst = [
     "HTML5",
     "CSS",
     "SASS",
-    "SQL"
+    "SQL",
+    "Unity"
 ];
 
 const labelsSecond = [
