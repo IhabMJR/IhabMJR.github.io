@@ -14,25 +14,21 @@ const labelsFirst = [
 ];
 
 const labelsSecond = [
-    "Git",
-    "GitHub Actions",
-    "Docker",
-    "AWS",
-    "Azure",
-    "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
+    "Adobe After Effects",
+    "Adobe Illustrator",
+    "Adobe Lightroom",
+    "Adobe Photoshop",
+    "Figma",
 ];
 
 const labelsThird = [
-    "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "DaVinci Resolve",
+    "Sony Vegas",
+    "OBS",
+    "Max",
+    "TouchDesigner",
+    "Reaper",
+    "Autodesk Maya",
 ];
 
 function Expertise() {
@@ -44,7 +40,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Codage et programmation</h3>
-                    <p>Mes expériences en codant des sites web et des jeux ont développé mes compétences en design web ainsi que ma créativité et ma capacité à résoudre des problèmes.</p>
+                    <p>Mes expériences en codant des sites web et des jeux ont développé mes compétences en design et développement web ainsi que ma créativité et ma capacité à résoudre des problèmes.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsFirst.map((label, index) => (
@@ -55,8 +51,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
-                    <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <h3>Désign</h3>
+                    <p>J'utilise des outils de la suite Adobe Creative Suite pour créer mes projets axés sur le design créatif et Figma pour planifier le design de mes sites ainsi que pour mes plans d'inspirations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsSecond.map((label, index) => (
@@ -67,8 +63,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Audio et video</h3>
+                    <p>J'ai de l'expérience dans DaVinci Resolve et Sony Vegas pour le montage vidéo et Reaper pour l'édition audio. J'utilise également Max et TouchDesigner pour des projets audiovisuels interactifs, ainsi que Maya pour intégrer des éléments 3D dans mes créations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsThird.map((label, index) => (
