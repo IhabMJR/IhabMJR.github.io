@@ -64,7 +64,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Audio et video</h3>
-                    <p>J'ai de l'expérience dans DaVinci Resolve et Sony Vegas pour le montage vidéo et Reaper pour l'édition audio. J'utilise également Max et TouchDesigner pour des projets audiovisuels interactifs, ainsi que Maya pour intégrer des éléments 3D dans mes créations.</p>
+                    <p>DaVinci Resolve et Sony Vegas sont utilisées pour le montage vidéo et Reaper pour l'édition audio. J'utilise aussi Max et TouchDesigner pour des projets interactifs, ainsi que Maya pour les éléments 3D dans mes créations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsThird.map((label, index) => (
