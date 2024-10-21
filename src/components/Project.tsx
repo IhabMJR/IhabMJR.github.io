@@ -17,9 +17,9 @@ function Project() {
         <h1>Mes projets</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://randomizedraptor.github.io/Carry-on-Carrion/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://randomizedraptor.github.io/Carry-on-Carrion/" target="_blank" rel="noreferrer"><h2>Carry on, Carrion</h2></a>
+                <p>Un jeu de rôle qui se déroule dans un monde fantastique sombre développé en JavaScript. Des mises à jour sont effectuées pour rendre l'histoire plus immersive.</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
