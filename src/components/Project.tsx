@@ -22,9 +22,9 @@ function Project() {
                 <p>Un jeu de rôle qui se déroule dans un monde fantastique sombre développé en JavaScript. Des mises à jour sont effectuées pour rendre l'histoire plus immersive.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EbdV5Ji0q2JMoaLj9Ih9BKEBEHkkwMsOHl0jqDiQjVD6rg?e=x9A0Ta" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EbdV5Ji0q2JMoaLj9Ih9BKEBEHkkwMsOHl0jqDiQjVD6rg?e=x9A0Ta" target="_blank" rel="noreferrer"><h2>Portrait Photoshop</h2></a>
+                <p>Un projet réalisé en Photoshop qui présente mes passions et mes loisirs dans un style de bricolage.</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
