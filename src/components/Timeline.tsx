@@ -1,20 +1,29 @@
 import React from "react";
-import '@fortawesome/free-regular-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
-import Chip from '@mui/material/Chip';
-import '../assets/styles/Expertise.scss';
+import "@fortawesome/free-regular-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faReact,
+  faDocker,
+  faPython,
+} from "@fortawesome/free-brands-svg-icons";
+import Chip from "@mui/material/Chip";
+import "../assets/styles/Expertise.scss";
 
 function aPropos() {
   return (
     <div id="history">
       <div className="items-container">
         <h1>À propos</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis gravida dapibus neque. Donec nunc nibh, tincidunt sit amet magna a, vehicula porta lectus. Suspendisse sodales leo ut ante iaculis, et molestie nunc sodales. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris et dui blandit, pretium velit a, sagittis neque. Pellentesque cursus urna vitae libero fermentum, ac dapibus tellus iaculis. Phasellus ac est ac risus placerat laoreet.</p>
+        <p>
+          En tant qu'étudiant en intégration multimédia, je suis passionné par l'interaction entre la complexité technique du code et la richesse des logiciels créatifs.
+          Mon parcours m'a offert l'opportunité d'acquérir plusieurs compétences en programmation tout en me familiarisant avec les aspects artistiques du design numérique.
+          <br />
+          <br />
+          Actuellement, à la recherche d'un stage pour mettre en pratique mes compétences techniques et ma créativité dans divers projets, dans le but d'améliorer mes compétences et de progresser dans ma carrière.
+        </p>
       </div>
     </div>
   );
 }
-
 
 export default aPropos;
