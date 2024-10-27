@@ -15,11 +15,10 @@ function aPropos() {
       <div className="items-container">
         <h1>À propos</h1>
         <p>
-          En tant qu'étudiant en intégration multimédia, je suis passionné par l'interaction entre la complexité technique du code et la richesse des logiciels créatifs.
-          Mon parcours m'a offert l'opportunité d'acquérir plusieurs compétences en programmation tout en me familiarisant avec les aspects artistiques du design numérique.
+          Étudiant en intégration multimédia, je suis passionné par l'interaction entre divers logiciels de programmation et de design, et j'adore explorer différentes combinaisons d'outils pour créer des expériences uniques et immersives. Mon parcours m'a permis de développer des compétences en programmation tout en me familiarisant avec les dimensions artistiques du design numérique.
           <br />
           <br />
-          Actuellement, à la recherche d'un stage pour mettre en pratique mes compétences techniques et ma créativité dans divers projets, dans le but d'améliorer mes compétences et de progresser dans ma carrière.
+          Actuellement, je suis à la recherche d'un stage pour mettre en pratique mes compétences techniques et ma créativité dans divers projets, dans le but d'améliorer mes compétences et de progresser dans ma carrière.
         </p>
       </div>
     </div>
