@@ -18,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/ihab-mouhajer-89a3a7329/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Ihab Mouhajer</h1>
-          <p>Bienvenue à mon portfolio!</p>
+          <p>Bienvenue dans mon portfolio!</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/IhabMJR" target="_blank" rel="noreferrer"><GitHubIcon/></a>

@@ -26,8 +26,8 @@ function Project() {
                 <p>Un projet réalisé sur Photoshop qui présente mes passions et mes loisirs dans un style bricolage.</p>
             </div>
             <div className="project">
-                <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EeV6eNKiBfhAu2fkwrUB4a0BwMJhPsnDqmliIyjJhavlPg?e=ri9XMY" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EeV6eNKiBfhAu2fkwrUB4a0BwMJhPsnDqmliIyjJhavlPg?e=ri9XMY" target="_blank" rel="noreferrer"><h2>Animation 3D avec audio immersif</h2></a>
+                <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EeV6eNKiBfhAu2fkwrUB4a0BwMJhPsnDqmliIyjJhavlPg?e=5VES2A" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EeV6eNKiBfhAu2fkwrUB4a0BwMJhPsnDqmliIyjJhavlPg?e=5VES2A" target="_blank" rel="noreferrer"><h2>Animation 3D avec audio immersif</h2></a>
                 <p>"Promenade" est une animation 3D développée sur Autodesk Maya en collaboration avec Michaël Un Dupré. J'ai réalisé l'audio avec Reaper, et le montage final a été effectué sur DaVinci Resolve.</p>
             </div>
         </div>

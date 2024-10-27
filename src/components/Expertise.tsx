@@ -53,7 +53,7 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faFigma} size="3x"/>
-                    <h3>Désign</h3>
+                    <h3>Design</h3>
                     <p>J'utilise des outils de la suite Adobe Creative Suite pour créer mes projets axés sur le design créatif et Figma pour planifier le design de mes sites ainsi que pour mes plans d'inspirations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
@@ -65,7 +65,7 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faFilm} size="3x"/>
-                    <h3>Audio et video</h3>
+                    <h3>Audio et vidéo</h3>
                     <p>DaVinci Resolve et Sony Vegas sont utilisées pour le montage vidéo et Reaper pour l'édition audio. J'utilise aussi Max et TouchDesigner pour des projets interactifs, ainsi que Maya pour les éléments 3D dans mes créations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
