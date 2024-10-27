@@ -11,13 +11,13 @@ function Project() {
         <h1>Projets</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://randomizedraptor.github.io/Carry-on-Carrion/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://randomizedraptor.github.io/Carry-on-Carrion/" target="_blank" rel="noreferrer"><h2>Carry on, Carrion</h2></a>
+                <a href="https://ihabmjr.github.io/Carry-on-Carrion/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://ihabmjr.github.io/Carry-on-Carrion/" target="_blank" rel="noreferrer"><h2>Carry on, Carrion</h2></a>
                 <p>Un jeu de rôle qui se déroule dans un monde fantastique sombre développé en JavaScript. Des mises à jour sont effectuées pour rendre l'histoire plus immersive.</p>
             </div>
             <div className="project">
-                <a href="https://randomizedraptor.github.io/erick-ihab-app-festival-art/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://randomizedraptor.github.io/erick-ihab-app-festival-art/" target="_blank" rel="noreferrer"><h2>Japan Media Arts Festival</h2></a>
+                <a href="https://ihabmjr.github.io/erick-ihab-app-festival-art/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://ihabmjr.github.io/erick-ihab-app-festival-art/" target="_blank" rel="noreferrer"><h2>Japan Media Arts Festival</h2></a>
                 <p>Projet collaboratif avec Érick Ouellette : révision du site et de l'application du "Japan Media Arts Festival" selon notre vision. J'ai développé le site web, et Érick Ouellette s'est chargé de l'application.</p>
             </div>
             <div className="project">
