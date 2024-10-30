@@ -12,6 +12,7 @@ const labelsFirst = [
     "CSS",
     "SASS",
     "SQL",
+    "Wordpress",
     "Unity"
 ];
 
