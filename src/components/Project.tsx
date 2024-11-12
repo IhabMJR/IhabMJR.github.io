@@ -18,7 +18,7 @@ function Project() {
             <div className="project">
                 <a href="https://ihabmjr.github.io/erick-ihab-app-festival-art/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://ihabmjr.github.io/erick-ihab-app-festival-art/" target="_blank" rel="noreferrer"><h2>Japan Media Arts Festival</h2></a>
-                <p>Projet collaboratif avec Érick Ouellette : révision du site et de l'application du "Japan Media Arts Festival" selon notre vision. J'ai développé le site web, et Érick Ouellette s'est chargé de l'application.</p>
+                <p>Projet collaboratif avec Érick Ouellette: révision du site du "Japan Media Arts Festival". J'ai développé le site web avec Bootstrap 5, Érick Ouellette s'est chargé de l'application.</p>
             </div>
             <div className="project">
                 <a href="https://1drv.ms/p/c/28b7601e5ee57c99/EbdV5Ji0q2JMoaLj9Ih9BKEBEHkkwMsOHl0jqDiQjVD6rg?e=x9A0Ta" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
