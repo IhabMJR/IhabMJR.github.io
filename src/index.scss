@@ -24,13 +24,17 @@ a {
 }
 
 a:hover {
-  color: #5000ca;
+  color: #c81111;
   transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
 p, a, h1, h2, h3, h4, h5, label, button {
   color: white;
   font-family: "Lato", sans-serif;
+}
+
+.text-color {
+  color: #c81111;
 }
 
 .navigation-bar {
@@ -113,6 +117,10 @@ p, a, h1, h2, h3, h4, h5, label, button {
   a:hover {
     color: #5000ca;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+  }
+
+  .text-color {
+    color: #5000ca;
   }
 
   .navigation-bar svg {

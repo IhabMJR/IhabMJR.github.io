@@ -43,7 +43,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faJs} size="3x"/>
                     <h3>Codage et programmation</h3>
-                    <p>Mes expériences en codant des sites web et des jeux ont développé mes compétences en design et développement web ainsi que ma créativité et ma capacité à résoudre des problèmes.</p>
+                    <p>Mes expériences en <span className="text-color">codant des sites web</span> et des <span className="text-color">jeux</span> ont développé mes compétences en design et développement web ainsi que ma créativité et ma capacité à résoudre des problèmes.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsFirst.map((label, index) => (
@@ -55,7 +55,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faFigma} size="3x"/>
                     <h3>Design</h3>
-                    <p>J'utilise des outils de la suite Adobe Creative Suite pour créer mes projets axés sur le design créatif et Figma pour planifier le design de mes sites ainsi que pour mes plans d'inspirations.</p>
+                    <p>J'utilise des outils de la suite <span className="text-color">Adobe Creative Cloud</span> pour créer mes projets axés sur le design créatif et <span className="text-color">Figma</span> pour planifier le design de mes sites ainsi que pour mes plans d'inspirations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsSecond.map((label, index) => (
@@ -67,7 +67,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faFilm} size="3x"/>
                     <h3>Audio et vidéo</h3>
-                    <p>DaVinci Resolve et Sony Vegas sont utilisées pour le montage vidéo et Reaper pour l'édition audio. J'utilise aussi Max et TouchDesigner pour des projets interactifs, ainsi que Maya pour les éléments 3D dans mes créations.</p>
+                    <p> <span className="text-color">DaVinci Resolve</span> et <span className="text-color">Sony Vegas</span> sont utilisées pour le montage vidéo et <span className="text-color">Reaper</span> pour l'édition audio. J'utilise aussi <span className="text-color">Max</span> et <span className="text-color">TouchDesigner</span> pour des projets interactifs, ainsi que <span className="text-color">Maya</span> pour les éléments 3D dans mes créations.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Compétences:</span>
                         {labelsThird.map((label, index) => (
