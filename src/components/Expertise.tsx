@@ -7,8 +7,10 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "JavaScript",
     "HTML5",
+    "JavaScript",
+    "Vue",
+    "React",
     "CSS",
     "SASS",
     "SQL",
