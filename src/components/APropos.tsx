@@ -11,6 +11,9 @@ function aPropos() {
           <br />
           <br />
           Actuellement, je suis <span className="text-color">à la recherche d'un stage</span> pour mettre en pratique mes compétences techniques et ma créativité dans des projets <span className="text-color">dans le domaine du web</span> ou dans des projets interactifs, dans le but d'améliorer mes compétences et de progresser dans ma carrière.
+          <br />
+          <br />
+          Basé à <span className="text-color">Montréal</span>, Québec.
         </p>
       </div>
   );
